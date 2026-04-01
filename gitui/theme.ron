@@ -1,0 +1,7 @@
+(
+  selection_bg: Some("Green"),
+  disabled_fg: Some("Reset"),
+  cmdbar_bg: Some("Green"),
+  command_fg: Some("Black"),
+  line_break: Some(""),
+)
