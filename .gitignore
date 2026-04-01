@@ -1,0 +1,16 @@
+# Local tooling metadata
+.codex
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Neovim local-only files
+nvim/.neoconf.json
+nvim/.luarc.json
+nvim/.lazyvim.json
+nvim/.idea/
+nvim/.vscode/
