@@ -17,6 +17,8 @@ end
 ----------------------------------------------------
 config.automatically_reload_config = true
 config.use_ime = true
+config.xim_im_name = "fcitx"
+config.ime_preedit_rendering = "Builtin"
 
 config.font = wezterm.font("JetBrains Mono")
 config.font_size = 14
