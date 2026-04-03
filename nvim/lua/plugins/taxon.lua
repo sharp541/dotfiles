@@ -4,8 +4,6 @@ return {
     dependencies = {
       "nvim-telescope/telescope.nvim",
     },
-    opts = {
-      notes_dir = "~/notes",
-    },
+    opts = {},
   },
 }
