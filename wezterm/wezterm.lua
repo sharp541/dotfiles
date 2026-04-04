@@ -21,7 +21,7 @@ config.xim_im_name = "fcitx"
 config.ime_preedit_rendering = "Builtin"
 
 config.font = wezterm.font("JetBrains Mono")
-config.font_size = 14
+config.font_size = 16
 config.color_scheme = "Kanagawa (Gogh)"
 
 config.window_padding = {
